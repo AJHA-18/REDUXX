@@ -4,6 +4,7 @@ export default function Home() {
     return (
         <>
             <h1>Home Page</h1>
+            <h2>home</h2>
             <h2>Global State: {globalState.count}</h2>
         </>
     )
