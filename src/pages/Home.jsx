@@ -5,6 +5,7 @@ export default function Home() {
         <>
             <h1>Home Page</h1>
             <h2>home</h2>
+            <p>this is the home page</p>
             <h2>Global State: {globalState.count}</h2>
         </>
     )
